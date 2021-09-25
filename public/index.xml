@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Schwartz Lab</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Schwartz Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://example.org/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/contact/</guid>
+      <description>gregory.schwartz@uhnresearch.ca
+  linkedin
+  github</description>
+    </item>
+    
+    <item>
+      <title>Lab opening</title>
+      <link>http://example.org/blog/1/01/01/lab_opening/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/blog/1/01/01/lab_opening/</guid>
+      <description>The lab has opened!</description>
+    </item>
+    
+    <item>
+      <title>Our Team</title>
+      <link>http://example.org/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/team/</guid>
+      <description>Principal Investigator Gregory Schwartz  Scientist at The Princess Margaret Cancer Centre Assistant Professor at the University of Toronto</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://example.org/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/publications/</guid>
+      <description>li:not(:last-child) { margin-bottom: 2%; }    Schwartz GW, Petrovic J, Fasolino M, Zhou Y, Cai S, Xu L, Pear WS, Vahedi G, and Faryabi RB. TooManyCells identifies and visualizes relationships of single-cell clades. Nat. Methods 17 405–413 (2020). doi:10.1038/s41592-020-0748-5 Rome KS, Stein, SJ, Kurachi M, Petrovic J, Schwartz GW, Mack EA, Uljon S, Wu WW, DeHart AG, McClory SE, Xu L, Gimotty PA, Blacklow SC, Faryabi RB, Wherry EJ, Jordan MS, Pear WS.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>http://example.org/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/research/</guid>
+      <description>Single-cell analyses enable measurement of the transcriptome, chromatin accessibility, and more at single-cell resolution. However, grouping similar cells at different resolution cutoffs severely limits the exploration of both common and rare heterogeneous populations. We have developed TooManyCells, a suite of novel tools focused on simultaneous visualization of single-cell clade relationships at all resolutions.
+ 
+
+ Poor prognosis of patients with acute myeloid leukemia can be predicted based on the presence of internal tandem duplications (ITDs) in Fms-like tyrosine kinase 3 (FLT3).</description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>http://example.org/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/software/</guid>
+      <description>.zebra-striping tbody tr:nth-child(odd) { background: #f2f2f2; }  .zebra-striping table { width: 80%; }     Program Github Hackage Stackage Docker     birch-beer ★ ★  ★   clumpiness ★ ★ ★    convert-annotation ★ ★ ★    differential ★ ★     diversity ★ ★ ★    fasta ★ ★ ★    find-clumpiness ★ ★ ★    heatitup ★ ★     heatitup-complete ★ ★     hierarchical-spectral-clustering ★ ★     integreat ★ ★     modify-fasta ★ ★ ★    modularity ★ ★     random-tree ★ ★ ★    rank-product ★ ★ ★    spectral-clustering ★ ★     too-many-cells ★ ★  ★   tree-fun ★ ★ ★</description>
+    </item>
+    
+  </channel>
+</rss>
