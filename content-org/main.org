@@ -302,14 +302,8 @@ consideration. We look forward to seeing your application!
 :EXPORT_FILE_NAME: _index
 :END:
 
-** Christie Lau joins the lab as a rotation student!
-:PROPERTIES:
-:EXPORT_FILE_NAME: christie_lau_joins_rotation
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :banner "img/news/join_lab.png"
-:END:
-Christie Lau from the Department of Medical Biophysics joins the lab.
-
 ** Lab opening
+SCHEDULED: <2021-10-04 Mon>
 :PROPERTIES:
 :EXPORT_FILE_NAME: lab_opening
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :banner "img/news/high_park_cherry_blossoms.jpg"
@@ -319,3 +313,19 @@ algorithms to help us understand treatment-resistance in cancer and create new c
 tools to improve diagnosis and guide therapy. We are accepting applications for
 all levels, from graduate student to postdoctoral fellow, as well as software
 engineers and bioinformaticians.
+
+** Christie Lau joins the lab as a rotation student!
+SCHEDULED: <2021-10-20 Wed>
+:PROPERTIES:
+:EXPORT_FILE_NAME: christie_lau_joins_rotation
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :banner "img/news/join_lab.png"
+:END:
+Christie Lau from the Department of Medical Biophysics joins the lab.
+
+** Yuan Chang joins the lab as a rotation student!
+SCHEDULED: <2021-11-26 Fri>
+:PROPERTIES:
+:EXPORT_FILE_NAME: yuan_chang_joins_rotation
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :banner "img/news/join_lab.png"
+:END:
+Yuan Chang from the Department of Medical Biophysics joins the lab.

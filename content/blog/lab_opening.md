@@ -1,6 +1,7 @@
 +++
 title = "Lab opening"
 author = ["Gregory W. Schwartz"]
+publishDate = 2021-10-04T00:00:00-04:00
 draft = false
 banner = "img/news/high_park_cherry_blossoms.jpg"
 +++
