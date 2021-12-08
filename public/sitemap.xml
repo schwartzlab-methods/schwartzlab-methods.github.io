@@ -2,23 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://example.org/blog/</loc>
+    <lastmod>2021-11-26T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>http://example.org/</loc>
+    <lastmod>2021-11-26T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>http://example.org/blog/2021/11/26/viet_hoang_joins_staff/</loc>
+    <lastmod>2021-11-26T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>http://example.org/blog/2021/11/26/yuan_chang_joins_rotation/</loc>
+    <lastmod>2021-11-26T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>http://example.org/blog/2021/10/20/christie_lau_joins_rotation/</loc>
+    <lastmod>2021-10-20T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>http://example.org/blog/2021/10/04/lab_opening/</loc>
+    <lastmod>2021-10-04T00:00:00-04:00</lastmod>
+  </url><url>
     <loc>http://example.org/authors/</loc>
   </url><url>
     <loc>http://example.org/categories/</loc>
   </url><url>
     <loc>http://example.org/contact/</loc>
   </url><url>
-    <loc>http://example.org/blog/1/01/01/lab_opening/</loc>
-  </url><url>
-    <loc>http://example.org/blog/</loc>
+    <loc>http://example.org/positions/</loc>
   </url><url>
     <loc>http://example.org/team/</loc>
   </url><url>
     <loc>http://example.org/publications/</loc>
   </url><url>
     <loc>http://example.org/research/</loc>
-  </url><url>
-    <loc>http://example.org/</loc>
   </url><url>
     <loc>http://example.org/software/</loc>
   </url><url>

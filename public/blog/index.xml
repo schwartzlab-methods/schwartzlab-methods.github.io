@@ -5,14 +5,42 @@
     <link>http://example.org/blog/</link>
     <description>Recent content in News on Schwartz Lab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Nov 2021 00:00:00 -0500</lastBuildDate><atom:link href="http://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Viet Hoang joins the lab as a Bioinformatics Analyst!</title>
+      <link>http://example.org/blog/2021/11/26/viet_hoang_joins_staff/</link>
+      <pubDate>Fri, 26 Nov 2021 00:00:00 -0500</pubDate>
+      
+      <guid>http://example.org/blog/2021/11/26/viet_hoang_joins_staff/</guid>
+      <description>Viet Hoang joins the lab as a Bioinformatics Analyst, welcome!</description>
+    </item>
+    
+    <item>
+      <title>Yuan Chang joins the lab as a rotation student!</title>
+      <link>http://example.org/blog/2021/11/26/yuan_chang_joins_rotation/</link>
+      <pubDate>Fri, 26 Nov 2021 00:00:00 -0500</pubDate>
+      
+      <guid>http://example.org/blog/2021/11/26/yuan_chang_joins_rotation/</guid>
+      <description>Yuan Chang from the Department of Medical Biophysics joins the lab.</description>
+    </item>
+    
+    <item>
+      <title>Christie Lau joins the lab as a rotation student!</title>
+      <link>http://example.org/blog/2021/10/20/christie_lau_joins_rotation/</link>
+      <pubDate>Wed, 20 Oct 2021 00:00:00 -0400</pubDate>
+      
+      <guid>http://example.org/blog/2021/10/20/christie_lau_joins_rotation/</guid>
+      <description>Christie Lau from the Department of Medical Biophysics joins the lab.</description>
+    </item>
+    
     <item>
       <title>Lab opening</title>
-      <link>http://example.org/blog/1/01/01/lab_opening/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>http://example.org/blog/2021/10/04/lab_opening/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 -0400</pubDate>
       
-      <guid>http://example.org/blog/1/01/01/lab_opening/</guid>
-      <description>The lab has opened!</description>
+      <guid>http://example.org/blog/2021/10/04/lab_opening/</guid>
+      <description>The lab is opening in October! Join our team to help develop new methods and algorithms to help us understand treatment-resistance in cancer and create new computational tools to improve diagnosis and guide therapy. We are accepting applications for all levels, from graduate student to postdoctoral fellow, as well as software engineers and bioinformaticians.</description>
     </item>
     
   </channel>

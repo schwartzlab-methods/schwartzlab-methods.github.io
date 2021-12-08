@@ -5,7 +5,44 @@
     <link>http://example.org/</link>
     <description>Recent content on Schwartz Lab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Nov 2021 00:00:00 -0500</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Viet Hoang joins the lab as a Bioinformatics Analyst!</title>
+      <link>http://example.org/blog/2021/11/26/viet_hoang_joins_staff/</link>
+      <pubDate>Fri, 26 Nov 2021 00:00:00 -0500</pubDate>
+      
+      <guid>http://example.org/blog/2021/11/26/viet_hoang_joins_staff/</guid>
+      <description>Viet Hoang joins the lab as a Bioinformatics Analyst, welcome!</description>
+    </item>
+    
+    <item>
+      <title>Yuan Chang joins the lab as a rotation student!</title>
+      <link>http://example.org/blog/2021/11/26/yuan_chang_joins_rotation/</link>
+      <pubDate>Fri, 26 Nov 2021 00:00:00 -0500</pubDate>
+      
+      <guid>http://example.org/blog/2021/11/26/yuan_chang_joins_rotation/</guid>
+      <description>Yuan Chang from the Department of Medical Biophysics joins the lab.</description>
+    </item>
+    
+    <item>
+      <title>Christie Lau joins the lab as a rotation student!</title>
+      <link>http://example.org/blog/2021/10/20/christie_lau_joins_rotation/</link>
+      <pubDate>Wed, 20 Oct 2021 00:00:00 -0400</pubDate>
+      
+      <guid>http://example.org/blog/2021/10/20/christie_lau_joins_rotation/</guid>
+      <description>Christie Lau from the Department of Medical Biophysics joins the lab.</description>
+    </item>
+    
+    <item>
+      <title>Lab opening</title>
+      <link>http://example.org/blog/2021/10/04/lab_opening/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 -0400</pubDate>
+      
+      <guid>http://example.org/blog/2021/10/04/lab_opening/</guid>
+      <description>The lab is opening in October! Join our team to help develop new methods and algorithms to help us understand treatment-resistance in cancer and create new computational tools to improve diagnosis and guide therapy. We are accepting applications for all levels, from graduate student to postdoctoral fellow, as well as software engineers and bioinformaticians.</description>
+    </item>
+    
     <item>
       <title>Contact</title>
       <link>http://example.org/contact/</link>
@@ -13,17 +50,19 @@
       
       <guid>http://example.org/contact/</guid>
       <description>gregory.schwartz@uhnresearch.ca
-  linkedin
-  github</description>
+  github
+  linkedin</description>
     </item>
     
     <item>
-      <title>Lab opening</title>
-      <link>http://example.org/blog/1/01/01/lab_opening/</link>
+      <title>Open Positions</title>
+      <link>http://example.org/positions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/blog/1/01/01/lab_opening/</guid>
-      <description>The lab has opened!</description>
+      <guid>http://example.org/positions/</guid>
+      <description>We are hiring for all levels!
+  From graduate student to postdoctoral fellow, we are looking for enthusiastic trainees who want to develop computational methods to understand treatment-resistance in cancer, cancer evolution, cancer heterogeneity, multi-omic analyses, and more!
+  We are also looking for software engineerings and bioinformaticians that are excited about creating new types of data visualizations and interfaces to make our tools widely accessible.</description>
     </item>
     
     <item>
@@ -41,7 +80,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/publications/</guid>
-      <description>li:not(:last-child) { margin-bottom: 2%; }    Schwartz GW, Petrovic J, Fasolino M, Zhou Y, Cai S, Xu L, Pear WS, Vahedi G, and Faryabi RB. TooManyCells identifies and visualizes relationships of single-cell clades. Nat. Methods 17 405–413 (2020). doi:10.1038/s41592-020-0748-5 Rome KS, Stein, SJ, Kurachi M, Petrovic J, Schwartz GW, Mack EA, Uljon S, Wu WW, DeHart AG, McClory SE, Xu L, Gimotty PA, Blacklow SC, Faryabi RB, Wherry EJ, Jordan MS, Pear WS.</description>
+      <description>li:not(:last-child) { margin-bottom: 2%; }    Schwartz GW, Zhou Y, Petrovic J, and Faryabi RB. TooManyPeaks identifies drug-resistant-specific regulatory elements from single-cell leukemic epigenomes. Cell Rep. 36, (2021). doi:10.1016/j.celrep.2021.109575  Schwartz GW, Petrovic J, Fasolino M, Zhou Y, Cai S, Xu L, Pear WS, Vahedi G, and Faryabi RB. TooManyCells identifies and visualizes relationships of single-cell clades. Nat. Methods 17 405–413 (2020). doi:10.1038/s41592-020-0748-5 Rome KS, Stein, SJ, Kurachi M, Petrovic J, Schwartz GW, Mack EA, Uljon S, Wu WW, DeHart AG, McClory SE, Xu L, Gimotty PA, Blacklow SC, Faryabi RB, Wherry EJ, Jordan MS, Pear WS.</description>
     </item>
     
     <item>
@@ -50,10 +89,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/research/</guid>
-      <description>Single-cell analyses enable measurement of the transcriptome, chromatin accessibility, and more at single-cell resolution. However, grouping similar cells at different resolution cutoffs severely limits the exploration of both common and rare heterogeneous populations. We have developed TooManyCells, a suite of novel tools focused on simultaneous visualization of single-cell clade relationships at all resolutions.
- 
-
- Poor prognosis of patients with acute myeloid leukemia can be predicted based on the presence of internal tandem duplications (ITDs) in Fms-like tyrosine kinase 3 (FLT3).</description>
+      <description>Chemotherapy and targeted drugs are effective treatments against cancer, but commonly lead to treatment-resistant cancer cells. Cancer heterogeneity is known to play a significant role in contributing towards this resistance. In order to overcome treatment-resistance in cancer, our goal is to develop new computational methods and algorithms to quantify and visualize cancer heterogeneity to better understand the underlying mechanisms of resistance. To accomplish this goal, we are creating new integrative tools at different scales (such as between cancer subtypes or between individual cells within a single cancer population) and data modalities (such as the transcriptome and the epigenome) to guide therapy.</description>
     </item>
     
     <item>
