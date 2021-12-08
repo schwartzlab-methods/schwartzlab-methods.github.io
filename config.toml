@@ -1,5 +1,5 @@
 # baseurl = "https://devcows.github.io/hugo-universal-theme/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
-baseURL = "http://example.org/"
+baseURL = "https://schwartzlab-methods.github.io/hugo-universal-theme/"
 title = "Schwartz Lab"
 theme = "hugo-universal-theme"
 themesDir = "./themes"
