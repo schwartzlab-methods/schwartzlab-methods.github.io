@@ -329,3 +329,11 @@ SCHEDULED: <2021-11-26 Fri>
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :banner "img/news/join_lab.png"
 :END:
 Yuan Chang from the Department of Medical Biophysics joins the lab.
+
+** Viet Hoang joins the lab as a Bioinformatics Analyst!
+SCHEDULED: <2021-11-26 Fri>
+:PROPERTIES:
+:EXPORT_FILE_NAME: viet_hoang_joins_staff
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :banner "img/news/join_lab.png"
+:END:
+Viet Hoang joins the lab as a Bioinformatics Analyst, welcome!
