@@ -19,3 +19,35 @@ draft = false
 </div>
 
 <br></br>
+
+
+## Trainees {#trainees}
+
+<div class="clearfix">
+
+<img src="/img/people/christie-lau-headshot.jpg" class="pull-left" style="border-radius:10%;margin-right:5%;width:30%;height:auto" />
+
+
+### Christie Lau {#christie-lau}
+
+-   Graduate Student
+
+</div>
+
+<br></br>
+
+
+## Staff {#staff}
+
+<div class="clearfix">
+
+<img src="/img/people/viet-hoang-headshot.png" class="pull-left" style="border-radius:10%;margin-right:5%;width:30%;height:auto" />
+
+
+### Viet Hoang {#viet-hoang}
+
+-   Bioinformatics Analyst
+
+</div>
+
+<br></br>
