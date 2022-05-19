@@ -10,4 +10,4 @@ draft = false
 
 -   [linkedin](https://www.linkedin.com/in/schwartzgregory)
 
-&lt;br&gt;&lt;/br&gt;
+<br></br>

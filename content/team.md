@@ -6,9 +6,9 @@ draft = false
 
 ## Principal Investigator {#principal-investigator}
 
-&lt;div class="clearfix"&gt;
+<div class="clearfix">
 
-&lt;img src="/img/people/gws-headshot.jpg" class="pull-left" style="border-radius:10%;margin-right:5%;width:30%;height:auto" /&gt;
+<img src="/img/people/gws-headshot.jpg" class="pull-left" style="border-radius:10%;margin-right:5%;width:30%;height:auto" />
 
 
 ### Gregory Schwartz {#gregory-schwartz}
@@ -16,38 +16,38 @@ draft = false
 -   Scientist at The Princess Margaret Cancer Centre
 -   [Assistant Professor at the University of Toronto](https://medbio.utoronto.ca/faculty/schwartz)
 
-&lt;/div&gt;
+</div>
 
-&lt;br&gt;&lt;/br&gt;
+<br></br>
 
 
 ## Trainees {#trainees}
 
-&lt;div class="clearfix"&gt;
+<div class="clearfix">
 
-&lt;img src="/img/people/christie-lau-headshot.jpg" class="pull-left" style="border-radius:10%;margin-right:5%;width:30%;height:auto" /&gt;
+<img src="/img/people/christie-lau-headshot.jpg" class="pull-left" style="border-radius:10%;margin-right:5%;width:30%;height:auto" />
 
 
 ### Christie Lau {#christie-lau}
 
 -   Graduate Student
 
-&lt;/div&gt;
+</div>
 
-&lt;br&gt;&lt;/br&gt;
+<br></br>
 
 
 ## Staff {#staff}
 
-&lt;div class="clearfix"&gt;
+<div class="clearfix">
 
-&lt;img src="/img/people/viet-hoang-headshot.png" class="pull-left" style="border-radius:10%;margin-right:5%;width:30%;height:auto" /&gt;
+<img src="/img/people/viet-hoang-headshot.png" class="pull-left" style="border-radius:10%;margin-right:5%;width:30%;height:auto" />
 
 
 ### Viet Hoang {#viet-hoang}
 
 -   Bioinformatics Analyst
 
-&lt;/div&gt;
+</div>
 
-&lt;br&gt;&lt;/br&gt;
+<br></br>

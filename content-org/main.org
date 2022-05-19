@@ -59,9 +59,11 @@ epigenome) to guide therapy.
 
 Some past examples of these initiatives as part of the [[https://faryabilab.com/][Faryabi Lab]] include:
 
+#+BEGIN_EXPORT html
 <div class="clearfix">
 
 <img src=/img/too-many-cells.svg class="pull-left" style="margin-right:5%;width:30%;height:auto" />
+#+END_EXPORT
 
 Single-cell analyses enable measurement of the transcriptome, chromatin
 accessibility, and more at single-cell resolution. However, grouping similar
@@ -71,6 +73,7 @@ suite of novel tools focused on simultaneous visualization of single-cell clade
 relationships at all resolutions for single-cell RNA sequencing (scRNA-seq)
 data.
 
+#+BEGIN_EXPORT html
 </div>
 
 <br></br>
@@ -78,6 +81,7 @@ data.
 <div class="clearfix">
 
 <img src=/img/too-many-peaks-graphical-abstract.svg class="pull-left" style="margin-right:5%;width:30%;height:auto" />
+#+END_EXPORT
 
 While single-cell RNA sequencing can reveal much about the transcriptomic state
 of individual cells, these states are largely set by the interaction of
@@ -87,6 +91,7 @@ chromatin states, we developed =TooManyPeaks=, part of the =TooManyCells= suite,
 for end-to-end analysis of single-cell assay for transposase-accessible
 chromatin using sequencing (scATAC-seq) data.
 
+#+BEGIN_EXPORT html
 </div>
 
 <br></br>
@@ -95,6 +100,7 @@ chromatin using sequencing (scATAC-seq) data.
 <div class="clearfix">
 
 <img src=/img/heatitup.svg class="pull-left" style="margin-right:5%;width:30%;height:auto" />
+#+END_EXPORT
 
 #+attr_html: :class clearfix
 Poor prognosis of patients with acute myeloid leukemia can be predicted based on
@@ -103,6 +109,7 @@ the presence of internal tandem duplications (ITDs) in Fms-like tyrosine kinase
 outcomes by creating =HeatITup=, an algorithm that identifies, characterizes,
 and visualizes these classes of /FLT3/-ITDs.
 
+#+BEGIN_EXPORT html
 </div>
 
 <br></br>
@@ -110,6 +117,7 @@ and visualizes these classes of /FLT3/-ITDs.
 <div class="clearfix">
 
 <img src=/img/integreat.svg class="pull-left" style="margin-right:5%;width:30%;height:auto" />
+#+END_EXPORT
 
 While we can measure different modalities, such as the transcriptome and
 proteome, it is difficult to analytically relate each level of information in a
@@ -117,9 +125,11 @@ systematic manner. We developed =inteGREAT=, an algorithm to use integration and
 differential integration between conditions to identify biomarkers across
 modalities.
 
+#+BEGIN_EXPORT html
 </div>
 
 <br></br>
+#+END_EXPORT
 
 * Publications
 :PROPERTIES:
@@ -127,11 +137,13 @@ modalities.
 :EXPORT_FILE_NAME: publications
 :END:
 
+#+BEGIN_EXPORT html
 <style>
 li:not(:last-child) {
     margin-bottom: 2%;
 }
 </style>
+#+END_EXPORT
 
 - Fasolino M*, *Schwartz GW**, Patil AR, Mongia A, Golson ML, Wang
   YJ, Morgan A, Liu C, Schug J, Liu J, Wu M, Traum D, Kondo A, May CL, Goldman
@@ -199,7 +211,9 @@ li:not(:last-child) {
   different diversity and richness metrics. /Phys. Biol./ *10*, 035005 (2013).
   [[http://iopscience.iop.org/1478-3975/10/3/035005/][doi:10.1088/1478-3975/10/3/035005]]
 
+#+BEGIN_EXPORT html
 <br></br>
+#+END_EXPORT
 
 * Software
 :PROPERTIES:
@@ -207,11 +221,13 @@ li:not(:last-child) {
 :EXPORT_FILE_NAME: software
 :END:
 
+#+BEGIN_EXPORT html
 <style>
 .zebra-striping tbody tr:nth-child(odd) {
   background: #f2f2f2;
 }
 </style>
+#+END_EXPORT
 
 #+attr_html: :class zebra-striping
 #+attr_css: :width 80%
@@ -237,7 +253,9 @@ li:not(:last-child) {
 | too-many-cells                   |   [[https://github.com/GregorySchwartz/too-many-cells][★]]    |    [[http://hackage.haskell.org/package/too-many-cells][★]]    |          |   [[https://hub.docker.com/r/gregoryschwartz/too-many-cells][★]]    |
 | tree-fun                         |   [[https://github.com/GregorySchwartz/tree-fun][★]]    |    [[http://hackage.haskell.org/package/tree-fun][★]]    |    [[https://www.stackage.org/lts-8.20/package/tree-fun-0.8.1.0][★]]     |        |
 
+#+BEGIN_EXPORT html
 <br></br>
+#+END_EXPORT
 
 * Our Team
 :PROPERTIES:
@@ -247,46 +265,58 @@ li:not(:last-child) {
 
 ** Principal Investigator
 
+#+BEGIN_EXPORT html
 <div class="clearfix">
 
 <img src="/img/people/gws-headshot.jpg" class="pull-left" style="border-radius:10%;margin-right:5%;width:30%;height:auto" />
+#+END_EXPORT
 
 *** Gregory Schwartz
 
 - Scientist at The Princess Margaret Cancer Centre
 - [[https://medbio.utoronto.ca/faculty/schwartz][Assistant Professor at the University of Toronto]]
 
+#+BEGIN_EXPORT html
 </div>
 
 <br></br>
+#+END_EXPORT
 
 ** Trainees
 
+#+BEGIN_EXPORT html
 <div class="clearfix">
 
 <img src="/img/people/christie-lau-headshot.jpg" class="pull-left" style="border-radius:10%;margin-right:5%;width:30%;height:auto" />
+#+END_EXPORT
 
 *** Christie Lau
 
 - Graduate Student
 
+#+BEGIN_EXPORT html
 </div>
 
 <br></br>
+#+END_EXPORT
 
 ** Staff
 
+#+BEGIN_EXPORT html
 <div class="clearfix">
 
 <img src="/img/people/viet-hoang-headshot.png" class="pull-left" style="border-radius:10%;margin-right:5%;width:30%;height:auto" />
+#+END_EXPORT
 
 *** Viet Hoang
 
 - Bioinformatics Analyst
 
+#+BEGIN_EXPORT html
 </div>
 
 <br></br>
+#+END_EXPORT
 
 * Open Positions
 :PROPERTIES:
@@ -309,7 +339,9 @@ li:not(:last-child) {
 information for three references to [[mailto:gregory.schwartz@uhnresearch.ca][gregory.schwartz@uhnresearch.ca]] for
 consideration. We look forward to seeing your application!
 
+#+BEGIN_EXPORT html
 <br></br>
+#+END_EXPORT
 
 * Contact
 :PROPERTIES:
@@ -324,7 +356,9 @@ consideration. We look forward to seeing your application!
 - [[https://www.linkedin.com/in/schwartzgregory][linkedin]]
 
 
+#+BEGIN_EXPORT html
 <br></br>
+#+END_EXPORT
 
 * News
 :PROPERTIES:

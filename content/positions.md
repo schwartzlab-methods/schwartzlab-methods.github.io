@@ -19,4 +19,4 @@ draft = false
 information for three references to [gregory.schwartz@uhnresearch.ca](mailto:gregory.schwartz@uhnresearch.ca) for
 consideration. We look forward to seeing your application!
 
-&lt;br&gt;&lt;/br&gt;
+<br></br>

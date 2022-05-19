@@ -4,11 +4,11 @@ author = ["Gregory W. Schwartz"]
 draft = false
 +++
 
-&lt;style&gt;
+<style>
 .zebra-striping tbody tr:nth-child(odd) {
   background: #f2f2f2;
 }
-&lt;/style&gt;
+</style>
 
 <style>.zebra-striping table { width: 80%;  }</style>
 
@@ -37,4 +37,4 @@ draft = false
 
 </div>
 
-&lt;br&gt;&lt;/br&gt;
+<br></br>

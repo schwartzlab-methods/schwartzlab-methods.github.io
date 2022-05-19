@@ -4,11 +4,11 @@ author = ["Gregory W. Schwartz"]
 draft = false
 +++
 
-&lt;style&gt;
+<style>
 li:not(:last-child) {
     margin-bottom: 2%;
 }
-&lt;/style&gt;
+</style>
 
 -   Fasolino M\*, **Schwartz GW\***, Patil AR, Mongia A, Golson ML, Wang
     YJ, Morgan A, Liu C, Schug J, Liu J, Wu M, Traum D, Kondo A, May CL, Goldman
@@ -76,4 +76,4 @@ li:not(:last-child) {
     different diversity and richness metrics. _Phys. Biol._ **10**, 035005 (2013).
     [doi:10.1088/1478-3975/10/3/035005](http://iopscience.iop.org/1478-3975/10/3/035005/)
 
-&lt;br&gt;&lt;/br&gt;
+<br></br>
