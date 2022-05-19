@@ -17,9 +17,9 @@ epigenome) to guide therapy.
 
 Some past examples of these initiatives as part of the [Faryabi Lab](https://faryabilab.com/) include:
 
-<div class="clearfix">
+&lt;div class="clearfix"&gt;
 
-<img src=/img/too-many-cells.svg class="pull-left" style="margin-right:5%;width:30%;height:auto" />
+&lt;img src=/img/too-many-cells.svg class="pull-left" style="margin-right:5%;width:30%;height:auto" /&gt;
 
 Single-cell analyses enable measurement of the transcriptome, chromatin
 accessibility, and more at single-cell resolution. However, grouping similar
@@ -29,13 +29,13 @@ suite of novel tools focused on simultaneous visualization of single-cell clade
 relationships at all resolutions for single-cell RNA sequencing (scRNA-seq)
 data.
 
-</div>
+&lt;/div&gt;
 
-<br></br>
+&lt;br&gt;&lt;/br&gt;
 
-<div class="clearfix">
+&lt;div class="clearfix"&gt;
 
-<img src=/img/too-many-peaks-graphical-abstract.svg class="pull-left" style="margin-right:5%;width:30%;height:auto" />
+&lt;img src=/img/too-many-peaks-graphical-abstract.svg class="pull-left" style="margin-right:5%;width:30%;height:auto" /&gt;
 
 While single-cell RNA sequencing can reveal much about the transcriptomic state
 of individual cells, these states are largely set by the interaction of
@@ -45,16 +45,15 @@ chromatin states, we developed `TooManyPeaks`, part of the `TooManyCells` suite,
 for end-to-end analysis of single-cell assay for transposase-accessible
 chromatin using sequencing (scATAC-seq) data.
 
-</div>
+&lt;/div&gt;
 
-<br></br>
+&lt;br&gt;&lt;/br&gt;
+
+&lt;div class="clearfix"&gt;
+
+&lt;img src=/img/heatitup.svg class="pull-left" style="margin-right:5%;width:30%;height:auto" /&gt;
 
 <div class="clearfix">
-
-<img src=/img/heatitup.svg class="pull-left" style="margin-right:5%;width:30%;height:auto" />
-
-<div class="clearfix">
-  <div></div>
 
 Poor prognosis of patients with acute myeloid leukemia can be predicted based on
 the presence of internal tandem duplications (ITDs) in Fms-like tyrosine kinase
@@ -64,13 +63,13 @@ and visualizes these classes of _FLT3_-ITDs.
 
 </div>
 
-</div>
+&lt;/div&gt;
 
-<br></br>
+&lt;br&gt;&lt;/br&gt;
 
-<div class="clearfix">
+&lt;div class="clearfix"&gt;
 
-<img src=/img/integreat.svg class="pull-left" style="margin-right:5%;width:30%;height:auto" />
+&lt;img src=/img/integreat.svg class="pull-left" style="margin-right:5%;width:30%;height:auto" /&gt;
 
 While we can measure different modalities, such as the transcriptome and
 proteome, it is difficult to analytically relate each level of information in a
@@ -78,6 +77,6 @@ systematic manner. We developed `inteGREAT`, an algorithm to use integration and
 differential integration between conditions to identify biomarkers across
 modalities.
 
-</div>
+&lt;/div&gt;
 
-<br></br>
+&lt;br&gt;&lt;/br&gt;

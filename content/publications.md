@@ -4,17 +4,23 @@ author = ["Gregory W. Schwartz"]
 draft = false
 +++
 
-<style>
+&lt;style&gt;
 li:not(:last-child) {
     margin-bottom: 2%;
 }
-</style>
+&lt;/style&gt;
 
--   <a id="orga4ddb60"></a> **Schwartz GW**, Zhou Y, Petrovic J, and Faryabi RB. TooManyPeaks
+-   Fasolino M\*, **Schwartz GW\***, Patil AR, Mongia A, Golson ML, Wang
+    YJ, Morgan A, Liu C, Schug J, Liu J, Wu M, Traum D, Kondo A, May CL, Goldman
+    N, Wang W, Feldman M, Moore JH, Japp AS, Betts MR, Faryabi RB, Naji A,
+    Kaestner KH, Vahedi G. Single-cell multi-omics analysis of human pancreatic
+    islets reveals novel cellular states in type 1 diabetes _Nat. Metab._ **4** 284-299 (2022).
+    [doi:10.1038/s42255-022-00531-x](http://www.nature.com/articles/s42255-022-00531-x). \*Authors contributed equally.
+-   <span class="org-target" id="org-target--tooManyPeaks"></span> **Schwartz GW**, Zhou Y, Petrovic J, and Faryabi RB. TooManyPeaks
     identifies drug-resistant-specific regulatory elements from single-cell
-    leukemic epigenomes. _Cell Rep._ **36**, (2021).
+    leukemic epigenomes. _Cell Rep._ **36** (2021).
     [doi:10.1016/j.celrep.2021.109575](https://doi.org/10.1016/j.celrep.2021.109575)
--   <a id="org7107ae9"></a> **Schwartz GW**, Petrovic J, Fasolino M, Zhou Y, Cai S, Xu L,
+-   <span class="org-target" id="org-target--tooManyCells"></span> **Schwartz GW**, Petrovic J, Fasolino M, Zhou Y, Cai S, Xu L,
     Pear WS, Vahedi G, and Faryabi RB. TooManyCells identifies and visualizes
     relationships of single-cell clades. _Nat. Methods_ **17** 405–413 (2020).
     [doi:10.1038/s41592-020-0748-5](https://doi.org/10.1038/s41592-020-0748-5)
@@ -29,19 +35,19 @@ li:not(:last-child) {
     EF, Little SC, Vahedi G, Pear WS, Faryabi RB. Oncogenic Notch Promotes
     Long-Range Regulatory Interactions within Hyperconnected 3D Cliques. _Mol.
     Cell._ **73** 1174-1190.e12. (2019).
-    [doi:10.1016/j.molcel.2019.01.006](https://www.cell.com/molecular-cell/fulltext/S1097-2765(19)30006-1?%5FreturnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1097276519300061%3Fshowall%3Dtrue)
--   <a id="orgb651868"></a> **Schwartz GW**, Manning BS, Zhou Y, Velu PD,
+    [doi:10.1016/j.molcel.2019.01.006](https://www.cell.com/molecular-cell/fulltext/S1097-2765(19)30006-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1097276519300061%3Fshowall%3Dtrue)
+-   <span class="org-target" id="org-target--flt3Class"></span> **Schwartz GW**, Manning BS, Zhou Y, Velu PD,
     Bigdeli A, Astles R, Lehman AW, Morrissette JJD, Perl AE, Li M, Carroll M, and
     Faryabi RB. Classes of ITD predict outcomes in AML patients treated with FLT3
     inhibitors. _Clin. Cancer Res._ (2019).
     [doi:10.1158/1078-0432.CCR-18-0655](http://clincancerres.aacrjournals.org/content/25/2/573)
     Commentary: Prognostic Models Turn the Heat(IT)up on FLT3<sup>ITD</sup>-Mutated AML.
     [doi:10.1158/1078-0432.CCR-18-3146](http://clincancerres.aacrjournals.org/content/25/2/460?iss=2)
--   <a id="org4787f43"></a> **Schwartz GW**, Petrovic J, Zhou Y, and Faryabi RB.
+-   <span class="org-target" id="org-target--integration"></span> **Schwartz GW**, Petrovic J, Zhou Y, and Faryabi RB.
     Differential integration of transcriptome and proteome identifies pan-cancer
     prognostic biomarkers. _Front. Genet._ **9**, 205 (2018).
     [doi:10.3389/fgene.2018.00205](https://www.frontiersin.org/articles/10.3389/fgene.2018.00205/full)
--   <a id="orgde4c8c2"></a> Meng W\*, Zhang B\*, **Schwartz GW**, Rosenfeld AM, Ren D, Thome J
+-   <span class="org-target" id="org-target--bCellAtlas"></span> Meng W\*, Zhang B\*, **Schwartz GW**, Rosenfeld AM, Ren D, Thome J
     JC, Carpenter DJ, Matsuoka N, Lerner H, Friedman AL, Granot T, Farber DL,
     Shlomchik MJ, Hershberg U and Luning Prak ET. An atlas of B cell clonal
     distribution in the human body. _Nat. Biotechnol._ **35**, 879-884 (2017).
@@ -55,19 +61,19 @@ li:not(:last-child) {
     linked to codon usage and differ for variable and conserved protein regions.
     _Sci. Rep._ **9**, 1 (2019).
     [doi:10.1038/s41598-019-53452-3](http://www.nature.com/articles/s41598-019-53452-3)
--   <a id="org53899ef"></a> **Schwartz GW**, Shokoufandeh A, Ontañón S, and Hershberg U.
+-   <span class="org-target" id="org-target--clumpinessPaper"></span> **Schwartz GW**, Shokoufandeh A, Ontañón S, and Hershberg U.
     Using a novel clumpiness measure to unite data with metadata: finding common
     sequence patterns in immune receptor germline V genes. _Pattern Recogn. Lett._
     **74**, 24-29 (2016). [doi:10.1016/j.patrec.2016.01.011](http://www.sciencedirect.com/science/article/pii/S0167865516000234)
 -   Meng W, Jayaraman S, Zhang B, **Schwartz GW**, Daber RD, Hershberg U,
     Garfall AL, Carlson CS and Luning Prak ET. Trials and tribulations with VH
     replacement. _Front. Immunol._ **5**, 10 (2014). [doi:10.3389/fimmu.2014.00010](http://www.frontiersin.org/Journal/10.3389/fimmu.2014.00010/abstract)
--   <a id="orge7e4ae8"></a> **Schwartz GW**, Hershberg U. Germline Amino Acid
+-   <span class="org-target" id="org-target--diversitySelectionPaper"></span> **Schwartz GW**, Hershberg U. Germline Amino Acid
     Diversity in B Cell Receptors is a Good Predictor of Somatic Selection
     Pressures. _Front. Immunol._ **4**, 357 (2013). [doi:10.3389/fimmu.2013.00357](http://www.frontiersin.org/Journal/10.3389/fimmu.2013.00357/abstract)
--   <a id="org23feda9"></a> **Schwartz GW**, Hershberg U. Conserved variation:
+-   <span class="org-target" id="org-target--diversityPaper"></span> **Schwartz GW**, Hershberg U. Conserved variation:
     identifying patterns of stability and variability in BCR and TCR V genes with
     different diversity and richness metrics. _Phys. Biol._ **10**, 035005 (2013).
     [doi:10.1088/1478-3975/10/3/035005](http://iopscience.iop.org/1478-3975/10/3/035005/)
 
-<br></br>
+&lt;br&gt;&lt;/br&gt;

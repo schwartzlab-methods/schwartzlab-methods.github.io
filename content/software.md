@@ -4,16 +4,15 @@ author = ["Gregory W. Schwartz"]
 draft = false
 +++
 
-<style>
+&lt;style&gt;
 .zebra-striping tbody tr:nth-child(odd) {
   background: #f2f2f2;
 }
-</style>
+&lt;/style&gt;
 
 <style>.zebra-striping table { width: 80%;  }</style>
 
 <div class="ox-hugo-table zebra-striping">
-<div></div>
 
 | Program                          | [Github](https://github.com/GregorySchwartz)                             | [Hackage](http://hackage.haskell.org/user/GregorySchwartz)               | [Stackage](https://www.stackage.org/)                                     | [Docker](https://hub.docker.com/u/gregoryschwartz)           |
 |:---------------------------------|:------------------------------------------------------------------------:|:------------------------------------------------------------------------:|:-------------------------------------------------------------------------:|:------------------------------------------------------------:|
@@ -38,4 +37,4 @@ draft = false
 
 </div>
 
-<br></br>
+&lt;br&gt;&lt;/br&gt;

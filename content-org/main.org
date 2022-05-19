@@ -133,9 +133,15 @@ li:not(:last-child) {
 }
 </style>
 
+- Fasolino M*, *Schwartz GW**, Patil AR, Mongia A, Golson ML, Wang
+  YJ, Morgan A, Liu C, Schug J, Liu J, Wu M, Traum D, Kondo A, May CL, Goldman
+  N, Wang W, Feldman M, Moore JH, Japp AS, Betts MR, Faryabi RB, Naji A,
+  Kaestner KH, Vahedi G. Single-cell multi-omics analysis of human pancreatic
+  islets reveals novel cellular states in type 1 diabetes /Nat. Metab./ *4* 284-299 (2022).
+  [[http://www.nature.com/articles/s42255-022-00531-x][doi:10.1038/s42255-022-00531-x]]. *Authors contributed equally.
 - <<tooManyPeaks>> *Schwartz GW*, Zhou Y, Petrovic J, and Faryabi RB. TooManyPeaks
     identifies drug-resistant-specific regulatory elements from single-cell
-    leukemic epigenomes. /Cell Rep./ *36*, (2021).
+    leukemic epigenomes. /Cell Rep./ *36* (2021).
     [[https://doi.org/10.1016/j.celrep.2021.109575][doi:10.1016/j.celrep.2021.109575]]
 - <<tooManyCells>> *Schwartz GW*, Petrovic J, Fasolino M, Zhou Y, Cai S, Xu L,
   Pear WS, Vahedi G, and Faryabi RB. TooManyCells identifies and visualizes
@@ -295,7 +301,7 @@ li:not(:last-child) {
   treatment-resistance in cancer, cancer evolution, cancer heterogeneity,
   multi-omic analyses, and more!
 
-- We are also looking for software engineerings and bioinformaticians that are
+- We are also looking for software developers and bioinformaticians that are
   excited about creating new types of data visualizations and interfaces to make
   our tools widely accessible.
 

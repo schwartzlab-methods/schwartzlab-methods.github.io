@@ -11,7 +11,7 @@ draft = false
     treatment-resistance in cancer, cancer evolution, cancer heterogeneity,
     multi-omic analyses, and more!
 
--   We are also looking for software engineerings and bioinformaticians that are
+-   We are also looking for software developers and bioinformaticians that are
     excited about creating new types of data visualizations and interfaces to make
     our tools widely accessible.
 
@@ -19,4 +19,4 @@ draft = false
 information for three references to [gregory.schwartz@uhnresearch.ca](mailto:gregory.schwartz@uhnresearch.ca) for
 consideration. We look forward to seeing your application!
 
-<br></br>
+&lt;br&gt;&lt;/br&gt;
