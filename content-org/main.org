@@ -411,7 +411,7 @@ SCHEDULED: <2022-01-01 Sat>
 The Schwartz lab receives the Canadian Cancer Society Challenge Grant with
 Catherine O'Brien to study drug-tolerant persisters.
 
-** Christie Lau joins the lab!
+** Christie Lau joins the lab as a PhD student!
 SCHEDULED: <2022-01-04 Tue>
 :PROPERTIES:
 :EXPORT_FILE_NAME: christie_lau_joins
