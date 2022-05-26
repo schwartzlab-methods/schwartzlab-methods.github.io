@@ -13,10 +13,6 @@
 :EXPORT_HUGO_SECTION:
 :END:
 
-** Current
-I will be starting as a Scientist and opening up the Schwartz lab at the
-Princess Margaret Cancer Centre this fall!
-
 ** Statement
 
 Life is a complex system of interconnecting networks: from the transcriptome to
@@ -405,3 +401,40 @@ SCHEDULED: <2021-11-26 Fri>
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :banner "img/news/join_lab.png"
 :END:
 Viet Hoang joins the lab as a Bioinformatics Analyst, welcome!
+
+** The Schwartz Lab receives the CCS Challenge Grant
+SCHEDULED: <2022-01-01 Sat>
+:PROPERTIES:
+:EXPORT_FILE_NAME: ccs_funding_2022-01-01
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :banner "img/news/funding.png"
+:END:
+The Schwartz lab receives the Canadian Cancer Society Challenge Grant with
+Catherine O'Brien to study drug-tolerant persisters.
+
+** Christie Lau joins the lab!
+SCHEDULED: <2022-01-04 Tue>
+:PROPERTIES:
+:EXPORT_FILE_NAME: christie_lau_joins
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :banner "img/news/join_lab.png"
+:END:
+Christie Lau from the Department of Medical Biophysics joins the lab.
+
+** The Schwartz Lab receives support from the DSI Research Software Development Support Program
+SCHEDULED: <2022-04-01 Fri>
+:PROPERTIES:
+:EXPORT_FILE_NAME: dsi_software_developer_2022-04-01
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :banner "img/news/funding.png"
+:END:
+The Schwartz lab receives support from the Data Science Institute Research
+Software Development Support Program.
+
+Featured in:
+https://datasciences.utoronto.ca/advancing-data-science-discovery-via-software-development-support/
+
+** Christie presents at the DSI Student-Led Reproducibility Challenge
+SCHEDULED: <2022-05-10 Tue>
+:PROPERTIES:
+:EXPORT_FILE_NAME: christie_dsi_reproducibility_2022-05-10
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :banner "img/news/presentation.png"
+:END:
+Christie presents at the DSI Student-Led Reproducibility Challenge.
