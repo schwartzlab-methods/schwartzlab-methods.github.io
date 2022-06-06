@@ -51,3 +51,16 @@ draft = false
 </div>
 
 <br></br>
+
+<div class="clearfix">
+
+<img src="/img/people/wendy-chen-headshot.jpg" class="pull-left" style="border-radius:10%;margin-right:5%;width:30%;height:auto" />
+
+
+### Wendy Chen {#wendy-chen}
+
+-   Administrative Assistant
+
+</div>
+
+<br></br>

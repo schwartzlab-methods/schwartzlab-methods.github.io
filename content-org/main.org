@@ -314,6 +314,22 @@ li:not(:last-child) {
 <br></br>
 #+END_EXPORT
 
+#+BEGIN_EXPORT html
+<div class="clearfix">
+
+<img src="/img/people/wendy-chen-headshot.jpg" class="pull-left" style="border-radius:10%;margin-right:5%;width:30%;height:auto" />
+#+END_EXPORT
+
+*** Wendy Chen
+
+- Administrative Assistant
+
+#+BEGIN_EXPORT html
+</div>
+
+<br></br>
+#+END_EXPORT
+
 * Open Positions
 :PROPERTIES:
 :EXPORT_HUGO_SECTION:
