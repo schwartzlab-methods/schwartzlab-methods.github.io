@@ -25,6 +25,19 @@ draft = false
 
 <div class="clearfix">
 
+<img src="/img/people/fatema-zohora-headshot.jpg" class="pull-left" style="border-radius:10%;margin-right:5%;width:30%;height:auto" />
+
+
+### Fatema Zohora {#fatema-zohora}
+
+-   Postdoctoral Fellow
+
+</div>
+
+<br></br>
+
+<div class="clearfix">
+
 <img src="/img/people/christie-lau-headshot.jpg" class="pull-left" style="border-radius:10%;margin-right:5%;width:30%;height:auto" />
 
 
@@ -47,6 +60,19 @@ draft = false
 ### Viet Hoang {#viet-hoang}
 
 -   Bioinformatics Analyst
+
+</div>
+
+<br></br>
+
+<div class="clearfix">
+
+<img src="/img/people/ho-seok-lee-headshot.png" class="pull-left" style="border-radius:10%;margin-right:5%;width:30%;height:auto" />
+
+
+### Ho Seok Lee {#ho-seok-lee}
+
+-   Software Developer
 
 </div>
 
