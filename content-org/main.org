@@ -447,6 +447,23 @@ Software Development Support Program.
 Featured in:
 https://datasciences.utoronto.ca/advancing-data-science-discovery-via-software-development-support/
 
+** Gregory is awarded the Canada Research Chair in Bioinformatics and Computational Biology
+SCHEDULED: <2022-04-01 Fri>
+:PROPERTIES:
+:EXPORT_FILE_NAME: gregory_award_2022-04-01
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :banner "img/news/funding.png"
+:END:
+Gregory is awarded the Canada Research Chair in Bioinformatics and Computational
+Biology, congrats!
+
+** Gregory presents at the Leukemia Academic Rounds
+SCHEDULED: <2022-05-09 Mon>
+:PROPERTIES:
+:EXPORT_FILE_NAME: gregory_presents_2022-05-09
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :banner "img/news/presentation.png"
+:END:
+Gregory presents at the Leukemia Academic Rounds.
+
 ** Christie presents at the DSI Student-Led Reproducibility Challenge
 SCHEDULED: <2022-05-10 Tue>
 :PROPERTIES:
@@ -454,3 +471,35 @@ SCHEDULED: <2022-05-10 Tue>
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :banner "img/news/presentation.png"
 :END:
 Christie presents at the DSI Student-Led Reproducibility Challenge.
+
+** Gregory presents at the Summer Student Seminar
+SCHEDULED: <2022-06-14 Tue>
+:PROPERTIES:
+:EXPORT_FILE_NAME: gregory_presents_2022-06-14
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :banner "img/news/presentation.png"
+:END:
+Gregory presents at the Summer Student Seminar.
+
+** Fatema Zohora joins the lab as a Postdocal Fellow!
+SCHEDULED: <2022-07-04 Mon>
+:PROPERTIES:
+:EXPORT_FILE_NAME: fatema_joins_2022-07-04
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :banner "img/news/join_lab.png"
+:END:
+Fatema Zohora joins the lab as a Postdocal Fellow, welcome!
+
+** Fatema is awarded the Next Generation Research Fellowship Fund
+SCHEDULED: <2022-07-19 Mon>
+:PROPERTIES:
+:EXPORT_FILE_NAME: fatema_award_2022-07-19
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :banner "img/news/funding.png"
+:END:
+Fatema is awarded the Next Generation Research Fellowship Fund, congrats!
+
+** Ho Seok Lee joins the lab as a Software Developer!
+SCHEDULED: <2022-09-12 Mon>
+:PROPERTIES:
+:EXPORT_FILE_NAME: david_joins_2022-09-12
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :banner "img/news/join_lab.png"
+:END:
+Ho Seok Lee joins the lab as a Software Developer, welcome!
