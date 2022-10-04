@@ -540,7 +540,7 @@ Ho Seok Lee joins the lab as a Software Developer, welcome!
 SCHEDULED: <2022-10-04 Tue> 
 :PROPERTIES:
 :EXPORT_FILE_NAME: dsi_news_2022-10-04
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :banner "img/news/newspaper.svg"
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :banner "img/news/newspaper.png"
 :END:
 Conor Klamann's work on an interactive TooManyCells interface is absolutely
 incredible and featured by the Data Sciences Institute. Check out the article at
