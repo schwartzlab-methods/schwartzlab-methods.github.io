@@ -535,3 +535,13 @@ SCHEDULED: <2022-09-12 Mon>
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :banner "img/news/join_lab.png"
 :END:
 Ho Seok Lee joins the lab as a Software Developer, welcome!
+
+** Our tools were highlighted at the Data Sciences Institute!
+SCHEDULED: <2022-10-04 Tue> 
+:PROPERTIES:
+:EXPORT_FILE_NAME: dsi_news_2022-10-04
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :banner "img/news/newspaper.svg"
+:END:
+Conor Klamann's work on an interactive TooManyCells interface is absolutely
+incredible and featured by the Data Sciences Institute. Check out the article at
+https://datasciences.utoronto.ca/building-data-science-software-to-help-the-fight-against-cancer/
