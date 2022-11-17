@@ -15,6 +15,7 @@ draft = false
 
 -   Scientist at The Princess Margaret Cancer Centre
 -   [Assistant Professor at the University of Toronto](https://medbio.utoronto.ca/faculty/schwartz)
+-   Canada Research Chair in Bioinformatics and Computational Biology
 
 </div>
 
