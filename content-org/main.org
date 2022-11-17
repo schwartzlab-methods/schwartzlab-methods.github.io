@@ -480,15 +480,6 @@ Software Development Support Program.
 Featured in:
 https://datasciences.utoronto.ca/advancing-data-science-discovery-via-software-development-support/
 
-** Gregory is awarded the Canada Research Chair in Bioinformatics and Computational Biology
-SCHEDULED: <2022-04-01 Fri>
-:PROPERTIES:
-:EXPORT_FILE_NAME: gregory_award_2022-04-01
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :banner "img/news/funding.png"
-:END:
-Gregory is awarded the Canada Research Chair in Bioinformatics and Computational
-Biology, congrats!
-
 ** Gregory presents at the Leukemia Academic Rounds
 SCHEDULED: <2022-05-09 Mon>
 :PROPERTIES:
@@ -546,3 +537,15 @@ SCHEDULED: <2022-10-04 Tue>
 Conor Klamann's work on an interactive TooManyCells interface is absolutely
 incredible and featured by the Data Sciences Institute. Check out the article at
 https://datasciences.utoronto.ca/building-data-science-software-to-help-the-fight-against-cancer/
+
+** Gregory is awarded the Canada Research Chair in Bioinformatics and Computational Biology
+SCHEDULED: <2022-11-17 Tue> 
+:PROPERTIES:
+:EXPORT_FILE_NAME: crc_news_2022-11-17
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :banner "img/news/funding.png"
+:END:
+Gregory is now the Canada Research Chair in Bioinformatics and Computational
+Biology. [[https://www.uhnresearch.ca/news/research-chairs-awarded][Read more
+about the award at UHN]] and
+[[https://www.chairs-chaires.gc.ca/whats_new-quoi_de_neuf/2022/crc-2021-2-eng.aspx][the
+Chairs website]].
