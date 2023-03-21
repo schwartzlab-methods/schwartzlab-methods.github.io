@@ -582,7 +582,7 @@ Gregory is now the Canada Research Chair in Bioinformatics and Computational
 Biology. [[https://www.uhnresearch.ca/news/research-chairs-awarded][Read more about the award at UHN]] and [[https://www.chairs-chaires.gc.ca/whats_new-quoi_de_neuf/2022/crc-2021-2-eng.aspx][the Chairs website]].
 
 ** Lin Yang joins the lab as a PhD student!
-SCHEDULED: <2022-01-03 Mon>
+SCHEDULED: <2023-01-02 Mon>
 :PROPERTIES:
 :EXPORT_FILE_NAME: lin_joins_2023-01-03
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :banner "img/news/join_lab.png"
@@ -590,7 +590,7 @@ SCHEDULED: <2022-01-03 Mon>
 Lin Yang from the Department of Medical Biophysics joins the lab.
 
 ** Almas Khan joins the lab as a PhD student!
-SCHEDULED: <2022-01-03 Mon>
+SCHEDULED: <2023-01-02 Mon>
 :PROPERTIES:
 :EXPORT_FILE_NAME: almas_joins_2023-01-03
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :banner "img/news/join_lab.png"
