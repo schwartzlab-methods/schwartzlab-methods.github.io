@@ -313,23 +313,39 @@ li:not(:last-child) {
 <br></br>
 #+END_EXPORT
 
-** Staff
-
 #+BEGIN_EXPORT html
 <div class="clearfix">
 
-<img src="/img/people/viet-hoang-headshot.png" class="pull-left" style="border-radius:10%;margin-right:5%;width:30%;height:auto" />
+<img src="/img/people/lin-yang-headshot.png" class="pull-left" style="border-radius:10%;margin-right:5%;width:30%;height:auto" />
 #+END_EXPORT
 
-*** Viet Hoang
+*** Lin Yang
 
-- Bioinformatics Analyst
+- Graduate Student
 
 #+BEGIN_EXPORT html
 </div>
 
 <br></br>
 #+END_EXPORT
+
+#+BEGIN_EXPORT html
+<div class="clearfix">
+
+<img src="/img/people/almas-khan-headshot.png" class="pull-left" style="border-radius:10%;margin-right:5%;width:30%;height:auto" />
+#+END_EXPORT
+
+*** Almas Khan
+
+- Graduate Student
+
+#+BEGIN_EXPORT html
+</div>
+
+<br></br>
+#+END_EXPORT
+
+** Staff
 
 #+BEGIN_EXPORT html
 <div class="clearfix">
@@ -356,6 +372,24 @@ li:not(:last-child) {
 *** Wendy Chen
 
 - Administrative Assistant
+
+#+BEGIN_EXPORT html
+</div>
+
+<br></br>
+#+END_EXPORT
+
+** Volunteers
+
+#+BEGIN_EXPORT html
+<div class="clearfix">
+
+<img src="/img/people/viet-hoang-headshot.png" class="pull-left" style="border-radius:10%;margin-right:5%;width:30%;height:auto" />
+#+END_EXPORT
+
+** Viet Hoang
+
+- Volunteer Bioinformatics Analyst
 
 #+BEGIN_EXPORT html
 </div>
@@ -545,7 +579,20 @@ SCHEDULED: <2022-11-17 Tue>
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :banner "img/news/funding.png"
 :END:
 Gregory is now the Canada Research Chair in Bioinformatics and Computational
-Biology. [[https://www.uhnresearch.ca/news/research-chairs-awarded][Read more
-about the award at UHN]] and
-[[https://www.chairs-chaires.gc.ca/whats_new-quoi_de_neuf/2022/crc-2021-2-eng.aspx][the
-Chairs website]].
+Biology. [[https://www.uhnresearch.ca/news/research-chairs-awarded][Read more about the award at UHN]] and [[https://www.chairs-chaires.gc.ca/whats_new-quoi_de_neuf/2022/crc-2021-2-eng.aspx][the Chairs website]].
+
+** Lin Yang joins the lab as a PhD student!
+SCHEDULED: <2022-01-03 Mon>
+:PROPERTIES:
+:EXPORT_FILE_NAME: lin_joins_2023-01-03
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :banner "img/news/join_lab.png"
+:END:
+Lin Yang from the Department of Medical Biophysics joins the lab.
+
+** Almas Khan joins the lab as a PhD student!
+SCHEDULED: <2022-01-03 Mon>
+:PROPERTIES:
+:EXPORT_FILE_NAME: almas_joins_2023-01-03
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :banner "img/news/join_lab.png"
+:END:
+Almas Khan from the Department of Medical Biophysics joins the lab.

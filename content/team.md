@@ -50,21 +50,34 @@ draft = false
 
 <br></br>
 
-
-## Staff {#staff}
-
 <div class="clearfix">
 
-<img src="/img/people/viet-hoang-headshot.png" class="pull-left" style="border-radius:10%;margin-right:5%;width:30%;height:auto" />
+<img src="/img/people/lin-yang-headshot.png" class="pull-left" style="border-radius:10%;margin-right:5%;width:30%;height:auto" />
 
 
-### Viet Hoang {#viet-hoang}
+### Lin Yang {#lin-yang}
 
--   Bioinformatics Analyst
+-   Graduate Student
 
 </div>
 
 <br></br>
+
+<div class="clearfix">
+
+<img src="/img/people/almas-khan-headshot.png" class="pull-left" style="border-radius:10%;margin-right:5%;width:30%;height:auto" />
+
+
+### Almas Khan {#almas-khan}
+
+-   Graduate Student
+
+</div>
+
+<br></br>
+
+
+## Staff {#staff}
 
 <div class="clearfix">
 
@@ -87,6 +100,22 @@ draft = false
 ### Wendy Chen {#wendy-chen}
 
 -   Administrative Assistant
+
+</div>
+
+<br></br>
+
+
+## Volunteers {#volunteers}
+
+<div class="clearfix">
+
+<img src="/img/people/viet-hoang-headshot.png" class="pull-left" style="border-radius:10%;margin-right:5%;width:30%;height:auto" />
+
+
+## Viet Hoang {#viet-hoang}
+
+-   Volunteer Bioinformatics Analyst
 
 </div>
 
