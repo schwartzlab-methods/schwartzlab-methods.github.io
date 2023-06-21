@@ -596,3 +596,14 @@ SCHEDULED: <2023-01-02 Mon>
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :banner "img/news/join_lab.png"
 :END:
 Almas Khan from the Department of Medical Biophysics joins the lab.
+
+** We have a new website: https://schwartzlab.ca/
+SCHEDULED: <2023-06-21 Wed>
+:PROPERTIES:
+:EXPORT_FILE_NAME: new_website_2023-06-21
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :banner "img/news/newspaper.png"
+:END:
+Check out our new website, located at https://schwartzlab.ca/
+
+We will keep this website for archival (and sentimental) purposes but will no
+longer update.
